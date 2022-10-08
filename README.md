@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 100 Days Of Code Challenge
 
 Learn Web3 / Blockchain development in 100 days by starting with the basic programming
@@ -106,4 +106,4 @@ Learn Web3 / Blockchain development in 100 days by starting with the basic progr
 [React](https://www.notion.so/React-f1fa5777363146008a782b7fe42f3ea1)
 
 [Web 3](https://www.notion.so/Web-3-c0d93f34c167465b8f07ba1887b9bf5a)
->>>>>>> 7932f94 (Day 2)
+
