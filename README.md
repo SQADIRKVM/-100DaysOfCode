@@ -9,7 +9,7 @@ Learn Web3 / Blockchain development in 100 days by starting with the basic progr
 - [x]  ****Windows Installation | Eclipse IDE****
 - [x]  ****Variables Datatypes & I/O Operations****
 - [x]  ****Conditional Statements IF, IF ELSE, SWITCH****
-- [ ]  ****Loops: FOR Loop****
+- [x]  ****Loops: FOR Loop****
 - [ ]  ****Array and Array Operations****
 - [ ]  ****Functions and Type of Functions****
 - [ ]  ****OOP Concepts: Class and Objects****
